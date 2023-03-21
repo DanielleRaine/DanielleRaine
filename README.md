@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel "Dani" Hassanieh!
-- 👀 I’m interested in software engineering and computer science!
+- 👀 I’m interested in software engineering and computer science, and I will be going to the University of Texas at Dallas soon!
 - 🌱 I’m currently learning python and java!
 - 💞️ I’m looking to collaborate on whatever I can to improve my skills in the future!
 - 📫 You can reach me at dhassanieh#0508 on discord and @d_hassanieh on twitter!
