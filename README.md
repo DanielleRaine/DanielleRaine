@@ -1,4 +1,4 @@
-Hi, I’m Daniel "Dani" Hassanieh! <br>
+Hi, I’m Dani Hassanieh! <br>
 I’m interested in software engineering and computer science, and I will be going to the University of Texas at Dallas soon! <br>
 I’m currently learning python and java! <br>
 I’m looking to collaborate on whatever I can to improve my skills in the future! <br>
