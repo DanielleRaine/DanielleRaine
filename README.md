@@ -1,5 +1,5 @@
 Hey, everyone, I'm Danielle!<br>
-!Danielle Raine(https://github.com/[DanielleRaine]/[DanielleRaine]/blob/main/danielleraine.jpg?raw=true)
+![Danielle Raine](danielleraine.jpg?raw=true)
 <br>
 I am an undergrad at UT Dallas studying Computer Science and Mathematics. I am passionate about learning new things in and out of my field while bringing positivity and total effort to my work and play!<br>
 <br>
