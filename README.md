@@ -1,5 +1,5 @@
 Hey, everyone, I'm Danielle!<br><br>
-![Danielle Raine](danielleraine.jpg?raw=true)
+<!-- ![Danielle Raine](danielleraine.jpg?raw=true) -->
 <br><br>
 About Me:<br>
 I am an undergrad at UT Dallas studying Computer Science and Mathematics. I am passionate about learning new things in and out of my field while bringing positivity and total effort to my work and play!<br>
@@ -10,4 +10,4 @@ I am looking for internship/research opportunities in mathematics, machine learn
 <br>
 Remember to stay safe, make logical decisions, and drink a lot of water!<br>
 <br>
-My Email: danielle.w.raine@outlook.com
+My Email: dwr@daniellewraine.com
